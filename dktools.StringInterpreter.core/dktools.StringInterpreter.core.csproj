@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+	<PackageVersion>1.0.0-alpha1</PackageVersion>
+	<Authors>Konstantinos Dafnomilis</Authors>
+	<PackageDescription>
+		Makes a string-to-string interpretation according to a set of token types and rules, provided each time.
+	</PackageDescription>
+	<Title>dktools.StringInterpreter</Title>
+	<README>https://github.com/kdafno/string-interpreter/blob/master/README.md</README>
+	<PackageProjectUrl>https://github.com/kdafno/string-interpreter</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
